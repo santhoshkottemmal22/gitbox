@@ -1,0 +1,48 @@
+DevOps
+-----
+
+Refer these...
+
+XebialLabs.com
+Version Control System(GIT)
+
+
+Git is the distributed version control system. Git is responsible for keeping track of changes to content (usually source code files), and it provides mechanisms for sharing that content with others. GitHub is a company that provides Git repository hosting.
+
+GitHub
+-------
+Usrname : santhoshkottemmal22
+
+
+
+Git Commands
+-----------
+git init
+git status
+git commit hello.txt -m "First Commit"    (For save or commit the file)
+
+touch hello.txt (To create File throgh commands) 
+
+git add DemoText.txt  (To add created file to repository)        
+git rm DemoText.txt (use to unstage/Remove the file)
+
+git status  - Getting status 
+
+
+Who is the owner of of that file/Who created
+------------------------------------------
+git config --global user.email "santhoshkottemmal22@gmail.com"
+git config --global user.name "Santhosh"
+
+git commit hello.txt -m "First Commit"    (For save or commit the file)
+
+
+git log (For getting details of Author)
+
+git --help (For getting all git commands)
+
+
+Clone command-To copy 
+
+
+
